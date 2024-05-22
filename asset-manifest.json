@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/card-management-app24/static/css/main.5483828d.css",
-    "main.js": "/card-management-app24/static/js/main.01c37b29.js",
-    "static/js/990.4876b481.chunk.js": "/card-management-app24/static/js/990.4876b481.chunk.js",
-    "static/js/453.cb47f36e.chunk.js": "/card-management-app24/static/js/453.cb47f36e.chunk.js",
-    "index.html": "/card-management-app24/index.html",
-    "main.5483828d.css.map": "/card-management-app24/static/css/main.5483828d.css.map",
-    "main.01c37b29.js.map": "/card-management-app24/static/js/main.01c37b29.js.map",
-    "990.4876b481.chunk.js.map": "/card-management-app24/static/js/990.4876b481.chunk.js.map",
-    "453.cb47f36e.chunk.js.map": "/card-management-app24/static/js/453.cb47f36e.chunk.js.map"
+    "main.css": "/card-management-app/static/css/main.5483828d.css",
+    "main.js": "/card-management-app/static/js/main.b796ed7d.js",
+    "static/js/990.4876b481.chunk.js": "/card-management-app/static/js/990.4876b481.chunk.js",
+    "static/js/453.cb47f36e.chunk.js": "/card-management-app/static/js/453.cb47f36e.chunk.js",
+    "index.html": "/card-management-app/index.html",
+    "main.5483828d.css.map": "/card-management-app/static/css/main.5483828d.css.map",
+    "main.b796ed7d.js.map": "/card-management-app/static/js/main.b796ed7d.js.map",
+    "990.4876b481.chunk.js.map": "/card-management-app/static/js/990.4876b481.chunk.js.map",
+    "453.cb47f36e.chunk.js.map": "/card-management-app/static/js/453.cb47f36e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5483828d.css",
-    "static/js/main.01c37b29.js"
+    "static/js/main.b796ed7d.js"
   ]
 }
