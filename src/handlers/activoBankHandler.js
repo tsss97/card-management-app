@@ -3,9 +3,12 @@ export const activoBankHandler = (content) => {
     const header = lines[0].split(',');
     
     // Find the indexes of the desired columns
-    const timestampIndex = header.indexOf('DATA LANC.');
-    const descriptionIndex = header.indexOf('DESCRITIVO SALDO INICIAL');
-    const amountIndex = header.indexOf('DEBITO');
+    // const timestampIndex = header.indexOf('DATA LANC.');
+    const timestampIndex = 0;
+    // const descriptionIndex = header.indexOf('DESCRITIVO SALDO INICIAL');
+    const descriptionIndex = 2;
+    // const amountIndex = header.indexOf('DEBITO');
+    const amountIndex = 3;    
     
     // Extract the desired columns for each line, excluding the header and other lines that debits
     const transformedLines = lines.slice(1).map(line => {
